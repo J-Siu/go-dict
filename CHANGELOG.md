@@ -1,2 +1,4 @@
 - v1.0.0
   - feature complete
+- v1.0.1
+  - update go-helper/v2
